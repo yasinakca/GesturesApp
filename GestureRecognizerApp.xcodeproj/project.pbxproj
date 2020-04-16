@@ -13,6 +13,8 @@
 		314EE20A2448CE4900D9397C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 314EE2082448CE4900D9397C /* Main.storyboard */; };
 		314EE20C2448CE4A00D9397C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 314EE20B2448CE4A00D9397C /* Assets.xcassets */; };
 		314EE20F2448CE4A00D9397C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 314EE20D2448CE4A00D9397C /* LaunchScreen.storyboard */; };
+		314EE2182448D01400D9397C /* james.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 314EE2162448D01400D9397C /* james.jpg */; };
+		314EE2192448D01400D9397C /* ulrich.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 314EE2172448D01400D9397C /* ulrich.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		314EE20B2448CE4A00D9397C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		314EE20E2448CE4A00D9397C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		314EE2102448CE4A00D9397C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		314EE2162448D01400D9397C /* james.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = james.jpg; sourceTree = "<group>"; };
+		314EE2172448D01400D9397C /* ulrich.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ulrich.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				314EE20B2448CE4A00D9397C /* Assets.xcassets */,
 				314EE20D2448CE4A00D9397C /* LaunchScreen.storyboard */,
 				314EE2102448CE4A00D9397C /* Info.plist */,
+				314EE2162448D01400D9397C /* james.jpg */,
+				314EE2172448D01400D9397C /* ulrich.jpg */,
 			);
 			path = GestureRecognizerApp;
 			sourceTree = "<group>";
@@ -125,8 +131,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				314EE2182448D01400D9397C /* james.jpg in Resources */,
 				314EE20F2448CE4A00D9397C /* LaunchScreen.storyboard in Resources */,
 				314EE20C2448CE4A00D9397C /* Assets.xcassets in Resources */,
+				314EE2192448D01400D9397C /* ulrich.jpg in Resources */,
 				314EE20A2448CE4900D9397C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
